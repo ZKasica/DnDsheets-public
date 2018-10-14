@@ -1,0 +1,314 @@
+{
+	"section": [
+		{
+			"name": "Character Name and Class",
+			"unusedFieldCount": "7",
+			"row": [
+				[
+					{
+						"fieldName": "Character Name",
+						"fieldSize": "300px",
+						"idName": "character_name"
+					},
+					{
+						"fieldName": "Class",
+						"fieldSize": "200px",
+						"idName": "class"
+					},
+					{
+						"fieldName": "Level",
+						"fieldSize": "125px",
+						"idName": "level"
+					},
+					{
+						"fieldName": "Background",
+						"fieldSize": "250px",
+						"idName": "background"
+					},
+					{
+						"fieldName": "Player Name",
+						"fieldSize": "300px",
+						"idName": "player_name"
+					}
+				],
+				[
+					{
+						"fieldName": "Race",
+						"fieldSize": "200px",
+						"idName": "race"
+					},
+					{
+						"fieldName": "Alignment",
+						"fieldSize": "200px",
+						"idName": "alignment"
+					}
+				]
+			]
+		},
+		{
+			"name": "Stats",
+			"unusedFieldCount": "6",
+			"row": [
+				[
+					{
+						"fieldName": "Strength",
+						"fieldSize": "200px",
+						"idName": "strength"
+					},
+					{
+						"fieldName": "Dexterity",
+						"fieldSize": "200px",
+						"idName": "dexterity"
+					},
+					{
+						"fieldName": "Constitution",
+						"fieldSize": "200px",
+						"idName": "constitution"
+					},
+					{
+						"fieldName": "Intelligence",
+						"fieldSize": "200px",
+						"idName": "intelligence"
+					},
+					{
+						"fieldName": "Wisdom",
+						"fieldSize": "200px",
+						"idName": "wisdom"
+					},
+					{
+						"fieldName": "Charisma",
+						"fieldSize": "200px",
+						"idName": "charisma"
+					}
+				]
+			]
+		},
+		{
+			"name": "Inspiration, Proficiency Bonus, and Passive Wisdom",
+			"unusedFieldCount": "3",
+			"row": [
+				[
+					{
+						"fieldName": "Inspiration",
+						"fieldSize": "250px",
+						"idName": "inspiration"
+					},
+					{
+						"fieldName": "Proficiency Bonus",
+						"fieldSize": "300px",
+						"idName": "proficiency_bonus"
+					},
+					{
+						"fieldName": "Passive Wisdom",
+						"fieldSize": "250px",
+						"idName": "passive_wisdom"
+					}
+				]
+			]
+		},
+		{
+			"name": "Saving Throws",
+			"unusedFieldCount": "6",
+			"row": [
+				[
+					{
+						"fieldName": "Strength",
+						"fieldSize": "250px",
+						"idName": "saving_throw_strength"
+					},
+					{
+						"fieldName": "Dexterity",
+						"fieldSize": "250px",
+						"idName": "saving_throw_dexterity_"
+					},
+					{
+						"fieldName": "Constitution",
+						"fieldSize": "250px",
+						"idName": "saving_throw_constitution"
+					},
+					{
+						"fieldName": "Intelligence",
+						"fieldSize": "250px",
+						"idName": "saving_throw_intelligence"
+					},
+					{
+						"fieldName": "Wisdom",
+						"fieldSize": "250px",
+						"idName": "saving_throw_wisdom"
+					},
+					{
+						"fieldName": "Charisma",
+						"fieldSize": "250px",
+						"idName": "saving_throw_charisma"
+					}
+				]
+			]
+		},
+		{
+			"name": "Skills",
+			"unusedFieldCount": "18",
+			"row": [
+				[
+					{
+						"fieldName": "Acrobatics",
+						"fieldSize": "250px",
+						"idName": "acrobatics"
+					},
+					{
+						"fieldName": "Animal Handling",
+						"fieldSize": "250px",
+						"idName": "animal_handling"
+					},
+					{
+						"fieldName": "Arcana",
+						"fieldSize": "250px",
+						"idName": "arcana"
+					},
+					{
+						"fieldName": "Athletics",
+						"fieldSize": "250px",
+						"idName": "athletics"
+					},
+					{
+						"fieldName": "Deception",
+						"fieldSize": "250px",
+						"idName": "deception"
+					},
+					{
+						"fieldName": "History",
+						"fieldSize": "250px",
+						"idName": "history"
+					}
+				],
+				[
+					{
+						"fieldName": "Insight",
+						"fieldSize": "250px",
+						"idName": "insight"
+					},
+					{
+						"fieldName": "Intimidation",
+						"fieldSize": "250px",
+						"idName": "intimidation"
+					},
+					{
+						"fieldName": "Investigation",
+						"fieldSize": "250px",
+						"idName": "investigation"
+					},
+					{
+						"fieldName": "Medicine",
+						"fieldSize": "250px",
+						"idName": "medicine"
+					},
+					{
+						"fieldName": "Nature",
+						"fieldSize": "250px",
+						"idName": "nature"
+					},
+					{
+						"fieldName": "Perception",
+						"fieldSize": "250px",
+						"idName": "perception"
+					}
+				],
+				[
+					{
+						"fieldName": "Performance",
+						"fieldSize": "250px",
+						"idName": "performance"
+					},
+					{
+						"fieldName": "Persuasion",
+						"fieldSize": "250px",
+						"idName": "persuasion"
+					},
+					{
+						"fieldName": "Religion",
+						"fieldSize": "250px",
+						"idName": "religion"
+					},
+					{
+						"fieldName": "Sleight of Hand",
+						"fieldSize": "250px",
+						"idName": "sleight_of_hand"
+					},
+					{
+						"fieldName": "Stealth",
+						"fieldSize": "250px",
+						"idName": "stealth"
+					},
+					{
+						"fieldName": "Survival",
+						"fieldSize": "250px",
+						"idName": "survival"
+					}
+				]
+			]
+		},
+		{
+			"name": "Combat Stats",
+			"unusedFieldCount": "4",
+			"row": [
+				[
+					{
+						"fieldName": "Armour Class",
+						"fieldSize": "250px",
+						"idName": "armour_class"
+					},
+					{
+						"fieldName": "Initiative",
+						"fieldSize": "250px",
+						"idName": "initiative"
+					},
+					{
+						"fieldName": "Speed",
+						"fieldSize": "250px",
+						"idName": "speed"
+					},
+					{
+						"fieldName": "Hit Points",
+						"fieldSize": "250px",
+						"idName": "hit_points"
+					}
+				]
+			]
+		},
+		{
+			"name": "Currency",
+			"unusedFieldCount": "5",
+			"row": [
+				[
+					{
+						"fieldName": "CP",
+						"fieldSize": "100px",
+						"idName": "CP"
+					},
+					{
+						"fieldName": "SP",
+						"fieldSize": "100px",
+						"idName": "SP"
+					},
+					{
+						"fieldName": "EP",
+						"fieldSize": "100px",
+						"idName": "EP"
+					},
+					{
+						"fieldName": "GP",
+						"fieldSize": "100px",
+						"idName": "GP"
+					},
+					{
+						"fieldName": "PP",
+						"fieldSize": "100px",
+						"idName": "PP"
+					}
+				]
+			]
+		}
+	],
+	"forms": [
+
+	]
+}

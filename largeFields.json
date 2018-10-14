@@ -1,0 +1,44 @@
+{
+	"field": [
+		{
+			"fieldName": "Personality Traits",
+			"numLines": "4",
+			"idName": "personality_traits"
+		},
+		{
+			"fieldName": "Ideals",
+			"numLines": "3",
+			"idName": "ideals"
+		},
+		{
+			"fieldName": "Bonds",
+			"numLines": "3",
+			"idName": "bonds"
+		},
+		{
+			"fieldName": "Flaws",
+			"numLines": "3",
+			"idName": "flaws"
+		},
+		{
+			"fieldName": "Attacks and Spellcasting",
+			"numLines": "11",
+			"idName": "attacks_and_spellcasting"
+		},
+		{
+			"fieldName": "Other Proficiencies and Languages",
+			"numLines": "12",
+			"idName": "other_proficiencies_and_languages"
+		},
+		{
+			"fieldName": "Equipment",
+			"numLines": "15",
+			"idName": "equipment"
+		},
+		{
+			"fieldName": "Features and Traits",
+			"numLines": "36",
+			"idName": "features_and_traits"
+		}
+	]
+}

@@ -1,0 +1,158 @@
+{
+    "character_name_and_class": {
+      "character_name": "string",
+      "class": "string",
+      "level": "string",
+      "background": "string",
+      "player_name": "string",
+      "race": "string",
+      "alignment": "string"
+    },
+    "stats": {
+      "strength": "int",
+      "dexterity": "int",
+      "constitution": "int",
+      "intelligence": "int",
+      "wisdom": "int",
+      "charisma": "int"
+    },
+    "inspiration": "int",
+    "proficiency_bonus": {
+      "bsonType": "int"
+    },
+    "passive_wisdom": {
+      "bsonType": "int"
+    },
+    "saving_throws": {
+      "strength": {
+        "bsonType": "int"
+      },
+      "dexterity": {
+        "bsonType": "int"
+      },
+      "constitution": {
+        "bsonType": "int"
+      },
+      "intelligence": {
+        "bsonType": "int"
+      },
+      "wisdom": {
+        "bsonType": "int"
+      },
+      "charisma": {
+        "bsonType": "int"
+      }
+    },
+    "skills": {
+      "acrobatics": {
+        "bsonType": "int"
+      },
+      "animal_handling": {
+        "bsonType": "int"
+      },
+      "arcana": {
+        "bsonType": "int"
+      },
+      "athletics": {
+        "bsonType": "int"
+      },
+      "deception": {
+        "bsonType": "int"
+      },
+      "history": {
+        "bsonType": "int"
+      },
+      "insight": {
+        "bsonType": "int"
+      },
+      "intimidation": {
+        "bsonType": "int"
+      },
+      "investigation": {
+        "bsonType": "int"
+      },
+      "medicine": {
+        "bsonType": "int"
+      },
+      "nature": {
+        "bsonType": "int"
+      },
+      "perception": {
+        "bsonType": "int"
+      },
+      "performance": {
+        "bsonType": "int"
+      },
+      "persuasion": {
+        "bsonType": "int"
+      },
+      "religion": {
+        "bsonType": "int"
+      },
+      "sleight_of_hand": {
+        "bsonType": "int"
+      },
+      "stealth": {
+        "bsonType": "int"
+      },
+      "survival": {
+        "bsonType": "int"
+      }
+    },
+    "combat_stats": {
+      "armour_class": {
+        "bsonType": "int"
+      },
+      "initiative": {
+        "bsonType": "int"
+      },
+      "speed": {
+        "bsonType": "int"
+      },
+      "hit_points": {
+        "bsonType": "int"
+      }
+    },
+    "currency": {
+      "CP": {
+        "bsonType": "int"
+      },
+      "SP": {
+        "bsonType": "int"
+      },
+      "EP": {
+        "bsonType": "int"
+      },
+      "GP": {
+        "bsonType": "int"
+      },
+      "PP": {
+        "bsonType": "int"
+      }
+    },
+    "personality_traits": {
+      "bsonType": "string"
+    },
+    "ideals": {
+      "bsonType": "string"
+    },
+    "bonds": {
+      "bsonType": "string"
+    },
+    "flaws": {
+      "bsonType": "string"
+    },
+    "attacks_and_spellcasting": {
+      "bsonType": "string"
+    },
+    "other_proficiencies_and_languages": {
+      "bsonType": "string"
+    },
+    "equipment": {
+      "bsonType": "string"
+    },
+    "features_and_traits": {
+      "bsonType": "string"
+    }
+  }
+}
